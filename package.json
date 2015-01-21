@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "mithril-node-render": "^0.1.7"
-  }
+  },
+  "keywords": [
+    "mithril",
+    "express"
+  ]
 }
